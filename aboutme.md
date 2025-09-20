@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My little about me page
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Michael Jobin. I have the following qualities:
 
 - I rock a great mustache
-- I'm extremely loyal to my family
+- I'm a PhD student
+- I'm old by student standards
 
 What else do you need?
 
