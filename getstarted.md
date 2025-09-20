@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started
-subtitle: A quick guide to setting up the site
+subtitle: A quick guide to setting up the site 
 ---
 
 ### Overview of steps required

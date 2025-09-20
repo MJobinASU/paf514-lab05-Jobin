@@ -19,17 +19,18 @@ social-network-links:
 #  email: "someone@example.com"
 #  facebook: deanattali
   github: MJobinASU
-#  twitter: daattali
+  twitter: ""
+  bluesky: ""
 #  rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: ""
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: 867-5309
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
